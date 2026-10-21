@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-This is a basic data science project I made for my course.
+This is a basic data science project I made for my Data Science course.
 
 I used the Titanic dataset to predict which passengers were more likely to survive the accident.
 
